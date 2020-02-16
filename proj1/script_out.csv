@@ -1,0 +1,57 @@
+,Source IP,Dest IP,Server Name,Organization
+0,184.28.44.224,172.16.0.29,No server name found,Internet Assigned Numbers Authority (IANA)
+1,172.16.0.4,172.16.0.255,No server name found,Internet Assigned Numbers Authority (IANA)
+2,172.16.0.2,172.16.0.29,No server name found,Internet Assigned Numbers Authority (IANA)
+3,172.16.0.29,172.217.12.163,No server name found,Google LLC (GOGL)
+4,172.217.12.163,172.16.0.29,No server name found,Internet Assigned Numbers Authority (IANA)
+5,172.16.0.2,172.16.0.255,No server name found,Internet Assigned Numbers Authority (IANA)
+6,127.0.0.1,127.255.255.255,No server name found,Internet Assigned Numbers Authority (IANA)
+7,172.16.0.29,172.16.0.255,No server name found,Internet Assigned Numbers Authority (IANA)
+8,127.0.0.1,127.0.0.1,No server name found,Internet Assigned Numbers Authority (IANA)
+9,172.16.0.29,172.16.0.29,No server name found,Internet Assigned Numbers Authority (IANA)
+10,172.16.0.11,172.16.0.255,No server name found,Internet Assigned Numbers Authority (IANA)
+11,172.16.0.29,31.13.71.1,No server name found,No organization found
+12,31.13.71.1,172.16.0.29,No server name found,Internet Assigned Numbers Authority (IANA)
+13,127.0.0.1,127.0.0.53,No server name found,Internet Assigned Numbers Authority (IANA)
+14,127.0.0.53,127.0.0.1,No server name found,Internet Assigned Numbers Authority (IANA)
+15,172.16.0.29,172.217.10.100,No server name found,Google LLC (GOGL)
+16,172.217.10.100,172.16.0.29,No server name found,Internet Assigned Numbers Authority (IANA)
+17,172.217.197.189,172.16.0.29,No server name found,Internet Assigned Numbers Authority (IANA)
+18,172.16.0.29,172.217.197.189,No server name found,Google LLC (GOGL)
+19,172.16.0.29,172.217.10.110,No server name found,Google LLC (GOGL)
+20,172.16.0.29,172.217.6.202,No server name found,Google LLC (GOGL)
+21,172.217.10.110,172.16.0.29,No server name found,Internet Assigned Numbers Authority (IANA)
+22,172.217.6.202,172.16.0.29,No server name found,Internet Assigned Numbers Authority (IANA)
+23,172.16.0.29,172.217.12.142,No server name found,Google LLC (GOGL)
+24,172.217.12.142,172.16.0.29,No server name found,Internet Assigned Numbers Authority (IANA)
+25,172.16.0.29,151.101.20.64,No server name found,Fastly (SKYCA-3)
+26,151.101.20.64,172.16.0.29,No server name found,Internet Assigned Numbers Authority (IANA)
+27,172.16.0.29,151.101.129.67,No server name found,Fastly (SKYCA-3)
+28,151.101.129.67,172.16.0.29,No server name found,Internet Assigned Numbers Authority (IANA)
+29,172.16.0.29,99.84.185.226,No server name found,"Amazon.com, Inc. (AMAZO-4)"
+30,99.84.185.226,172.16.0.29,No server name found,Internet Assigned Numbers Authority (IANA)
+31,172.16.0.29,239.255.255.250,No server name found,No organization found
+32,172.16.0.1,172.16.0.29,No server name found,Internet Assigned Numbers Authority (IANA)
+33,172.16.0.29,52.85.144.148,No server name found,Amazon Technologies Inc. (AT-88-Z)
+34,52.85.144.148,172.16.0.29,No server name found,Internet Assigned Numbers Authority (IANA)
+35,172.16.0.29,96.6.28.230,No server name found,"Akamai Technologies, Inc. (AKAMAI)"
+36,172.16.0.29,172.16.0.1,No server name found,Internet Assigned Numbers Authority (IANA)
+37,96.6.28.230,172.16.0.29,No server name found,Internet Assigned Numbers Authority (IANA)
+38,172.16.0.29,96.6.28.230,data.cnn.com,"Akamai Technologies, Inc. (AKAMAI)"
+39,172.16.0.29,143.204.147.41,No server name found,Amazon Technologies Inc. (AT-88-Z)
+40,143.204.147.41,172.16.0.29,No server name found,Internet Assigned Numbers Authority (IANA)
+41,172.16.0.29,104.20.184.68,No server name found,"Cloudflare, Inc. (CLOUD14)"
+42,104.20.184.68,172.16.0.29,No server name found,Internet Assigned Numbers Authority (IANA)
+43,172.16.0.29,3.133.211.247,No server name found,Amazon Technologies Inc. (AT-88-Z)
+44,3.133.211.247,172.16.0.29,No server name found,Internet Assigned Numbers Authority (IANA)
+45,172.104.211.98,172.16.0.29,No server name found,Internet Assigned Numbers Authority (IANA)
+46,172.16.0.29,172.104.211.98,No server name found,Linode (LINOD)
+47,172.16.0.5,172.16.0.29,No server name found,Internet Assigned Numbers Authority (IANA)
+48,172.16.0.29,151.101.2.133,No server name found,Fastly (SKYCA-3)
+49,172.16.0.29,151.101.2.109,No server name found,Fastly (SKYCA-3)
+50,151.101.2.133,172.16.0.29,No server name found,Internet Assigned Numbers Authority (IANA)
+51,151.101.2.109,172.16.0.29,No server name found,Internet Assigned Numbers Authority (IANA)
+52,172.16.0.29,184.28.44.224,No server name found,"Akamai Technologies, Inc. (AKAMAI)"
+53,172.16.0.29,184.28.44.224,api.weather.com,"Akamai Technologies, Inc. (AKAMAI)"
+54,172.16.0.3,172.16.0.29,No server name found,Internet Assigned Numbers Authority (IANA)
+55,172.16.0.29,184.28.44.224,weather.com,"Akamai Technologies, Inc. (AKAMAI)"
