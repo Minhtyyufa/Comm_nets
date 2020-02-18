@@ -12,7 +12,7 @@ tshark_out = subprocess.check_output("tshark -r " + path_to_pcap + " -d tcp.port
 '''
 
 tshark_out = subprocess.check_output("tshark -r " + path_to_pcap + " -d tcp.port==23322,ssl -T json -e ip.src -e ip.dst "
-                                     "-e ssl.handshake.extensions_server_name", shell=True)
+                                     "-e ssl.handshake.extensions_server_name -Y ssl.handshake", shell=True)
 packet_dict = json.loads(tshark_out.decode("utf-8"))
 packet_ips = [i['_source']['layers'] for i in packet_dict]
 packet_set = {}
